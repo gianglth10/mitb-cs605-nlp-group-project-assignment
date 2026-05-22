@@ -1,1 +1,1 @@
-# mitb-cs605-nlp-group-project-assignment
+# mitb-cs605-nlp-assignment
